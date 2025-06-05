@@ -1,0 +1,25 @@
+A shader effect to drive blood when it hits a wall.
+
+When this profab is spawned or intanciated on a wall it will begin to drip and then dry and then fade and then destory its parent group object.
+This is designed to be spawned on nearby walls when something is cut or shot at or sliced or maimed, you name it.
+
+The script controls the shader values and the shader drives the effect.
+
+Texture driver in the shader:
+Red channel: general tone variation for the color
+Green Channel: the overall drip shape
+Blue channel: the movement power (more blue more movement, more black less movement)
+
+Normal map generated from the Shape (green channel with some small blur), used NormalMap online to generate the normal map.
+
+Please adjust the sliders until you get the desired effect.
+
+Adjust the script variables in the inspector for the speed and drying speed.
+
+Please note 
+Fade, Blood dry and some other effects are driven from the script so be sure to set them back to 0 in the materials if you have adjusted them
+for checking.
+
+Prefabs have been premade with ideal settings.
+
+Please see the videos for more details.
