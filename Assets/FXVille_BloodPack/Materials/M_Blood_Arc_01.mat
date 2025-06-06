@@ -121,10 +121,10 @@ Material:
     m_Floats:
     - _AlphaClipMin: 1.53
     - _AlphaClipSoft: 0.37
-    - _AlphaMin: -0.01
-    - _AlphaSoft: 1
+    - _AlphaMin: 0.081
+    - _AlphaSoft: 0.294
     - _BumpScale: 1
-    - _Columns: 1
+    - _Columns: -0.27
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -151,10 +151,10 @@ Material:
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _ParticleToggle: 1
-    - _ProcMask: 0.3
+    - _ProcMask: 0.1
     - _Randomize: 1
     - _ReflectionSat: 0.5
-    - _Rows: -4.36
+    - _Rows: 0
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -170,6 +170,6 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
-    - _SpecularColor: {r: 0.78676474, g: 0.78676474, b: 0.78676474, a: 0.8}
+    - _SpecularColor: {r: 1, g: 0, b: 0.62574005, a: 0.8}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
