@@ -133,7 +133,7 @@ Material:
     - _Tiling1: 18.3
     - _Tiling2: 8.1
     - _ToneBias: 0.235
-    - _ToneScale: 0.72
+    - _ToneScale: 1
     - _UVSec: 0
     - _VAVAVAVAVAV: 0
     - _ZWrite: 1
