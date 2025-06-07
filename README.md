@@ -1,6 +1,6 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+![Movie_003](https://github.com/user-attachments/assets/4f783fb4-890d-4d0e-9d58-ca483e76f8c6)
 
 # **Blood**
 
@@ -19,15 +19,6 @@ _**Efectos visuales de sangre: salpicaduras, manchas y partículas para impactos
 ### ⚙️ Repository Features
 Desactiva funciones que no necesitas en `Settings → Features`:
 
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
 - [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
 
 </footer>
