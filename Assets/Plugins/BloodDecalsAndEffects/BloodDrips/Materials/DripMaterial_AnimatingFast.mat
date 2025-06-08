@@ -91,7 +91,7 @@ Material:
     m_Floats:
     - _ActualFrame: 0
     - _AlphaCutoff: 0.5
-    - _AnimSpeed: 4
+    - _AnimSpeed: 10
     - _BumpScale: 1
     - _Cutoff: 0.11
     - _DetailNormalMapScale: 1

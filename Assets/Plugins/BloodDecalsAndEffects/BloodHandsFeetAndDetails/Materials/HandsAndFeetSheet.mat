@@ -135,6 +135,6 @@ Material:
     - _Color: {r: 0.30588236, g: 0.054901965, b: 0.054901965, a: 1}
     - _DriedBloodColorGloss: {r: 0.07352942, g: 0.028315542, b: 0.0037846018, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColorTintFadeA: {r: 0.08823532, g: 0.002595159, b: 0.002595159, a: 1}
+    - _MainColorTintFadeA: {r: 0.2264151, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
